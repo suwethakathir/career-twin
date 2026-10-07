@@ -1,0 +1,3 @@
+Backend Cloud Engineer, hybrid. 1+ years experience.
+We need Python, FastAPI, SQL, Docker and AWS. You will build REST APIs and deploy them.
+Preferred: Kubernetes, CI/CD, Linux.

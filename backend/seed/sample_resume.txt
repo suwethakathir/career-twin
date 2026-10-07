@@ -1,0 +1,22 @@
+Asha Raman
+asha@example.com | +91 98765 43210
+
+Summary
+Final-year CS student. CGPA: 8.6
+
+Education
+B.E. Computer Science, 2026
+
+Skills
+Python, FastAPI, SQL, React, Git, Docker, Kubernetes
+
+Projects
+- Built a REST API with FastAPI and PostgreSQL for a campus marketplace; wrote SQL queries and tests.
+- Created a React dashboard consuming the FastAPI service; used Git for version control.
+- Containerized the Python service with Docker.
+
+Experience
+Backend intern: built Python and FastAPI endpoints, wrote SQL migrations, 6 months.
+
+Certifications
+Python for Everybody
